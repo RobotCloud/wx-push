@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+push:
+  appId: wxe276810934c04da8
+  secret: b9e8f4f7c582c3d219792985b1de5c64
+  openId: o4MEX6lA0cLIMcMvKJoyiLY6hyZM
+  templateId: Xn0XAr7gvKt8fEg2vnqoq05kUHCyHqvYzqhEaqgCu0c
+
